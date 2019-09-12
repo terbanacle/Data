@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/terbanacle/Data/master/CPBCPTCBMI1Adjp.csv",
+	"name": "CPBCPTCBMI1Adjp",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "ILMNGene_ProbeId" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 6 }
+	]
+}
